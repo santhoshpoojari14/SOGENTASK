@@ -4,6 +4,9 @@ Eclipse IDE, MySql Server ,Java 1.8
 Step 1: src/main/java/com/portal/sql/db.sql 
 Run the db.sql for creating Data base and Table in Mysql Server.
 for connceting db used MySql workbench.
+Database Details which is mentioned in src/main/resources/application.properties
+UserName:root
+Password:root
 
 
 Step2: download and Import the project to Eclipse 
